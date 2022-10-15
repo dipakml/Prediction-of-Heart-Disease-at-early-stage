@@ -99,6 +99,7 @@ The following points were the objective of the project.
 - Building and hosting a streamlit web app on Heroku. 
 - A user has to input machine operating features.
 - Once it gets all the fields information , the prediction is displayed. 
+
 ### Technologies Used  
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
 
