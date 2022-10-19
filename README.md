@@ -1,6 +1,8 @@
 ## End-to-End Machine Learning Project- Prediction of Heart Disease at early stage using machine learning 
 
 
+<img target="_blank" src="https://github.com/dipakml/Prediction-of-Heart-Disease-at-early-stage/blob/master/heart_disease.png" width=1000>
+
 ### Table of Content
   * [Overview](#overview)
   * [Acknowledgements for Dataset](#acknowledgements-for-Dataset)
