@@ -84,6 +84,10 @@ Idea is to implement the end to end machine learning project while using free de
 ### Demo
 [Visit this link for live demo](https://heartdiseasepred7.herokuapp.com/)
 
+Web application Snapshot:
+
+<img target="_blank" src="https://github.com/dipakml/Prediction-of-Heart-Disease-at-early-stage/blob/master/webapp_snapshot.png" width=1000>
+
 ### Learning Objective
 The following points were the objective of the project.
 
