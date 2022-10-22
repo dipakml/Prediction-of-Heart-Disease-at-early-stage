@@ -9,7 +9,7 @@
   * [Attribute Information](#attribute-Information)
   * [Motivation](#motivation)
   * [Demo](#demo)
-  * [Steps in the project execution](#Steps)
+  * [Steps in the project execution](#Steps-in-the-project-execution)
   * [Technical Aspect](#technical-aspect)
   * [Technologies Used](#technologies-used)
   * [Installation](#installation)
