@@ -9,7 +9,7 @@
   * [Attribute Information](#attribute-Information)
   * [Motivation](#motivation)
   * [Demo](#demo)
-  * [Learning Objective](#Learning-Objective)
+  * [Steps in the project execution](#Steps)
   * [Technical Aspect](#technical-aspect)
   * [Technologies Used](#technologies-used)
   * [Installation](#installation)
@@ -88,16 +88,9 @@ Web application Snapshot:
 
 <img target="_blank" src="https://github.com/dipakml/Prediction-of-Heart-Disease-at-early-stage/blob/master/webapp_snapshot.png" width=1000>
 
-### Learning Objective
-The following points were the objective of the project.
+### Steps in the project execution
 
-- Data gathering 
-- Descriptive Analysis 
-- Data Visualizations 
-- Data Preprocessing 
-- Data Modelling 
-- Model Evaluation 
-- Model Deployment 
+<img target="_blank" src="https://github.com/dipakml/Mechanical-Properties-Prediction-for-Low-Alloy-Steels/blob/master/images/Machine_Learing_Steps.png" width=1000>
 
 ### Technical Aspect 
 
